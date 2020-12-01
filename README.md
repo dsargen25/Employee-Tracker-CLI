@@ -1,7 +1,7 @@
 
   ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-  ##Employee Tracker
+  # Employee Tracker
 
   ## Table of Contents
   * [Title](#title)
